@@ -1,0 +1,115 @@
+📋 INSTRUCTIONS POUR GITHUB PAGES
+=====================================
+
+PRÉREQUIS :
+✓ Un compte GitHub (gratuit sur https://github.com)
+
+ÉTAPES À SUIVRE :
+================
+
+ÉTAPE 1 : CRÉER UN REPOSITORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Allez sur : https://github.com/new
+2. Remplissez les champs :
+   - Repository name : code-du-succes
+   - Description (optionnel) : Page de vente - Le Code du Succès
+   - Public ✓ (important!)
+3. Cochez : "Add a README file"
+4. Cliquez le bouton vert "Create repository"
+
+Vous venez de créer votre repo!
+
+
+ÉTAPE 2 : UPLOADER VOS FICHIERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Dans votre repo GitHub, cliquez "Add file" (bouton vert en haut à droite)
+2. Sélectionnez "Upload files"
+3. Glissez-déposez ou cliquez pour sélectionner les fichiers :
+   ✓ index.html
+   ✓ .gitignore
+   ✓ README.md
+
+4. En bas, cliquez "Commit changes" (le bouton vert)
+
+Les fichiers sont maintenant dans GitHub!
+
+
+ÉTAPE 3 : ACTIVER GITHUB PAGES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Dans votre repo, cliquez sur "Settings" (⚙️ en haut à droite)
+2. Dans le menu de gauche, cliquez "Pages"
+3. Vous verrez "Build and deployment" :
+   - Sélectionnez "Deploy from a branch"
+   - Branche : "main"
+   - Dossier : "/(root)"
+4. Cliquez "Save"
+
+✅ GitHub Pages est activé!
+
+
+ÉTAPE 4 : ACCÉDEZ À VOTRE SITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Attendez 1-5 minutes, puis allez à :
+
+https://[votre-username].github.io/code-du-succes/
+
+Exemple : https://dexbanger.github.io/code-du-succes/
+
+
+🎉 VOTRE PAGE EST EN LIGNE!
+
+
+DÉPANNAGE
+═════════
+
+❓ Je ne vois pas la page
+→ Attendez 5 minutes et rafraîchissez
+→ Vérifiez que votre repo est PUBLIC
+
+❓ J'obtiens une erreur 404
+→ Vérifiez le nom du repo (code-du-succes)
+→ L'index.html est au dossier racine?
+
+❓ Je veux modifier la page
+→ Modifiez index.html directement dans GitHub
+→ Cliquez le crayon ✏️ sur le fichier
+→ Changez le texte/couleurs/prix
+→ Cliquez "Commit changes"
+
+
+OPTIMISATIONS
+═════════════
+
+Pour améliorer votre page :
+
+1. DOMAINE PERSONNALISÉ (optionnel)
+   - Achetez un domaine (ex: lecoduSucces.fr)
+   - Dans Settings → Pages → Custom domain
+   - Suivez les instructions DNS
+
+2. EMAIL COLLECTION (optionnel)
+   - Ajoutez un formulaire avec Formbucket.com
+   - Intégrez Mailchimp pour les emails
+
+3. ANALYTICS (optionnel)
+   - Ajoutez Google Analytics
+   - Trackez vos visiteurs
+
+4. CONVERSIONS (optionnel)
+   - Intégrez Hotjar pour heatmaps
+   - Testez A/B pour améliorer
+
+
+📞 BESOIN D'AIDE?
+═════════════════
+
+Votre page est maintenant sur :
+https://[votre-username].github.io/code-du-succes/
+
+Elle sera mise à jour chaque fois que vous modifiez les fichiers!
+
+Bon succès! 🚀
