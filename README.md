@@ -74,11 +74,12 @@ GitHub mettra 1-5 minutes à déployer la page.
 
 Pour modifier la page, éditez `index.html` :
 
-- **Couleurs** : Changez les codes couleur (recherchez `#667eea`, `#764ba2`)
+- **Couleurs** : Variables CSS dans `:root` (`--gold`, `--ink`, `--paper`, etc.)
+- **Typographie** : Polices Google Fonts `Outfit` (titres) et `Inter` (texte)
 - **Texte** : Modifiez directement dans les sections HTML
-- **Prix** : Changez `€17.99` et `€30`
+- **Prix** : Changez `17,99 €` et `30 €`
 - **Témoignages** : Remplacez les noms et textes
-- **Lien Beacons** : Modifiez l'URL dans la section `<script>`
+- **Lien Beacons** : Modifiez `CTA_URL` dans la section `<script>`
 
 ## 📞 Support
 
