@@ -1,6 +1,17 @@
-# 🚀 Le Code du Succès - Landing Page
+# 🚀 Le Code du Succès - Landing Page & Formation
 
-Une page de vente moderne et optimisée pour promouvoir le produit "Le Code du Succès".
+Une page de vente moderne et optimisée pour promouvoir le produit "Le Code du Succès", ainsi que le contenu réel de la formation vendue sur cette page.
+
+## 🎓 Contenu de la formation (`formation/`)
+
+Le dossier [`formation/`](formation/) contient le produit complet décrit sur la landing page, prêt à être livré aux clients :
+
+| Fichier | Contenu |
+|---|---|
+| `Le-Code-du-Succes-Guide-Complet.docx` | Le guide complet des 30 jours (4 semaines, 7 principes fondamentaux, leçon + action concrète + réflexion chaque jour). |
+| `Plan-Action-30-Jours.docx` | Version condensée et imprimable avec cases à cocher, jour par jour, + feuille de route des 90 jours suivants. |
+| `Scripts-Videos-14-Modules.docx` | Les scripts des 14 vidéos premium couvrant l'intégralité du programme. |
+| `Templates-et-Outils-de-Suivi.xlsx` | Les 15 templates (planification, projets, finances) + outils de suivi de progression, avec formules automatiques. |
 
 ## 📊 Caractéristiques
 
